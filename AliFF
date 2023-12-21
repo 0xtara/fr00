@@ -1,0 +1,11 @@
+clc;
+clear all;
+close all;
+
+A = 10
+B = 12
+C = 30
+
+if A>B
+print "Ali is grater than Moei"
+end
